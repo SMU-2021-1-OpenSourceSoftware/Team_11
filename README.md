@@ -4,3 +4,6 @@
 |:-------|:------|:----|:----|
 | 황헤링 | 2019635076 | huangheling | huangheling20@naver.com |
 | 황찬솔 | 2020315026 | Hwangchansol | cksthf321@naver.com |
+
+## 김수환
+- kimsoohwan@sunmoon.ac.kr
