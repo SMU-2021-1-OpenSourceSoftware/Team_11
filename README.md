@@ -10,3 +10,4 @@
 - kimsoohwan@sunmoon.ac.kr
 
 ## 황찬솔
+- cksthf321@naver.com
