@@ -12,6 +12,7 @@
 ## 황헤링 
 - heling@gmail.com
 - 2019635076
+- Github: huangheling
 
 ## 황찬솔
 - cksthf321@naver.com
